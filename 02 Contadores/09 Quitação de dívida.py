@@ -12,4 +12,4 @@ else:
         quitação= quitação + juros - pag_mensal
         x=x+1
         print(f'O valor pago no mês{1} foi de R${pag_mensal:5.2f} e sua dívida ficou em R${quitação:5.2f}')  
-print(f'Sua dívida de R${dívida:5.2f} foi quitada')
+        print(f'Sua dívida de R${dívida:5.2f} foi quitada')
